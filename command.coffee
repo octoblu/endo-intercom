@@ -6,7 +6,7 @@ OctobluStrategy = require 'endo-core/octoblu-strategy'
 ApiStrategy     = require './src/api-strategy'
 MessageHandler  = require './src/message-handler'
 
-MISSING_SERVICE_URL = 'Missing required environment variable: ENDO_INTERCOM_SERVICE_URL'
+MISSING_SERVICE_URL      = 'Missing required environment variable: ENDO_INTERCOM_SERVICE_URL'
 MISSING_MANAGER_URL = 'Missing required environment variable: ENDO_INTERCOM_MANAGER_URL'
 MISSING_APP_OCTOBLU_HOST = 'Missing required environment variable: APP_OCTOBLU_HOST'
 

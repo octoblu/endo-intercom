@@ -6,8 +6,14 @@
       type: 'array'
       items:
         type: 'object'
-        required: ['createdAt', 'type', 'username']
+        required: ['createdAt', 'repoName', 'type', 'username']
         properties:
+          commitRef:
+            type: 'string'
+            description: 'The git reference for the event (ex: "refs/heads/master")'
+          commitSha:
+            type: 'string'
+            description: 'The SHA of the event (ex: "e5018700b23a926afb32581fa1a3cd6b7bb15584")'
           createdAt:
             type: 'string'
             format: 'date-time'

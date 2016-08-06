@@ -1,7 +1,7 @@
 {
   type: 'object'
-  title: 'List Events by User'
-  'x-group-name': 'User Events'
+  title: 'List Conversations'
+  'x-group-name': 'Conversations'
   required: ['data']
   properties:
     data:
