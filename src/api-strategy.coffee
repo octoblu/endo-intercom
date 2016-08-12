@@ -1,5 +1,5 @@
 _ = require 'lodash'
-PassportIntercom = require 'passport-intercom'
+PassportIntercom = require('passport-intercom').Strategy
 
 class IntercomStrategy extends PassportIntercom
   constructor: (env) ->
