@@ -1,10 +1,13 @@
 # endo-intercom
 
+[![Build Status](https://travis-ci.org/octoblu/endo-intercom.svg?branch=master)](https://travis-ci.org/octoblu/endo-intercom)
+[![Test Coverage](https://codecov.io/gh/octoblu/endo-intercom/branch/master/graph/badge.svg)](https://codecov.io/gh/octoblu/endo-intercom)
 [![Dependency status](http://img.shields.io/david/octoblu/endo-intercom.svg?style=flat)](https://david-dm.org/octoblu/endo-intercom)
 [![devDependency Status](http://img.shields.io/david/dev/octoblu/endo-intercom.svg?style=flat)](https://david-dm.org/octoblu/endo-intercom#info=devDependencies)
-[![Build Status](http://img.shields.io/travis/octoblu/endo-intercom.svg?style=flat&branch=master)](https://travis-ci.org/octoblu/endo-intercom)
+[![Slack Status](http://community-slack.octoblu.com/badge.svg)](http://community-slack.octoblu.com)
 
 [![NPM](https://nodei.co/npm/endo-intercom.svg?style=flat)](https://npmjs.org/package/endo-intercom)
+
 
 ## Installing
 
